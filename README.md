@@ -2,4 +2,4 @@
 
 ## 🐍 My Contributions
 
-![Snake animation](https://raw.githubusercontent.com/Kaushik3747/Kaushik3747/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Kaushik3747/Kaushik3747/gh-pages/github-contribution-grid-snake.svg)
